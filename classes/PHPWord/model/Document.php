@@ -27,7 +27,7 @@
 
 /** PHPWORD_BASE_PATH */
 if(!defined('PHPWORD_BASE_PATH')) {
-    define('PHPWORD_BASE_PATH', WC_DIR_CLASSES );
+    define('PHPWORD_BASE_PATH', CWA_DIR_CLASSES );
 }
 
 
